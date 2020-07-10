@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22c43604-3a3c-4dcd-9be7-0e4f5fc7ef2b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/FollowCam.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="32" column="5" selection-start-line="16" selection-start-column="17" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <marker date="1562055015436" expanded="false" signature="6:78" ph="..." />
+                <marker date="1562055015436" expanded="true" signature="118:887" ph="{...}" />
+                <marker date="1562055015436" expanded="true" signature="259:280" ph="{...}" />
+                <marker date="1562055015436" expanded="true" signature="338:885" ph="{...}" />
+                <marker date="1562055015436" expanded="true" signature="697:879" ph="/* GetComponent&lt;tk2dCamera&gt;().ZoomFactor -= Time.deltaTime * 0.5f; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+              <folding>
+                <marker date="1562141464662" expanded="false" signature="6:78" ph="..." />
+                <marker date="1562141464662" expanded="true" signature="115:2113" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="291:399" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="457:1003" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="508:552" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="603:648" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="661:701" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="747:789" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="849:997" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="1030:1082" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="1107:1161" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="1191:1436" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="1465:1710" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="1766:1925" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="1821:1919" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="1980:2111" ph="{...}" />
+                <marker date="1562141464662" expanded="true" signature="2035:2105" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/Bullet.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="22" column="11" selection-start-line="15" selection-start-column="43" selection-end-line="22" selection-end-column="11" />
+              <folding>
+                <marker date="1562055015430" expanded="false" signature="6:44" ph="..." />
+                <marker date="1562055015430" expanded="true" signature="82:948" ph="{...}" />
+                <marker date="1562055015430" expanded="true" signature="168:207" ph="{...}" />
+                <marker date="1562055015430" expanded="true" signature="262:542" ph="{...}" />
+                <marker date="1562055015430" expanded="true" signature="265:536" ph="/* if (!gameObject.GetComponent&lt;tk2dSprite&gt;().FlipX) ... */" />
+                <marker date="1562055015430" expanded="true" signature="586:946" ph="{...}" />
+                <marker date="1562055015430" expanded="true" signature="640:940" ph="{...}" />
+                <marker date="1562055015430" expanded="true" signature="689:930" ph="{...}" />
+                <marker date="1562055015430" expanded="true" signature="768:916" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/Enemy.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+              <folding>
+                <marker date="1562055015427" expanded="false" signature="6:44" ph="..." />
+                <marker date="1562055015427" expanded="true" signature="81:2920" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="101:160" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="403:448" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="477:728" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="502:722" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="749:961" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="823:955" ph="/* gameObject.GetComponent&lt;tk2dSprite&gt;().FlipX = false; ... */" />
+                <marker date="1562055015427" expanded="true" signature="983:1195" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="1058:1189" ph="/* gameObject.GetComponent&lt;tk2dSprite&gt;().FlipX = true; ... */" />
+                <marker date="1562055015427" expanded="true" signature="1257:2918" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="1278:2771" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="1313:1447" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="1464:2761" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="1507:2580" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="1617:1769" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="1821:2562" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="1973:2501" ph="/* GameObject temp = Instantiate(Bullet, new Vector3(transform.position.x + (gameObject.GetComponent&lt;tk2dSprite&gt;( ... */" />
+                <marker date="1562055015427" expanded="true" signature="2601:2747" ph="{...}" />
+                <marker date="1562055015427" expanded="true" signature="2784:2915" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/FollowCam.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/FollowCam.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Hero.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Player.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1024" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22c43604-3a3c-4dcd-9be7-0e4f5fc7ef2b" name="Default Changelist" comment="" />
+      <created>1551589052498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551589052498</updated>
+      <workItem from="1551589056177" duration="2773000" />
+      <workItem from="1551940322276" duration="20000" />
+      <workItem from="1551940381116" duration="738000" />
+      <workItem from="1552890115073" duration="411000" />
+      <workItem from="1562054545071" duration="2992000" />
+      <workItem from="1570945433397" duration="401000" />
+      <workItem from="1572758208226" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7434000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1024" height="745" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19959266" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Player.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/FollowCam1.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Hero.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/FollowCam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="32" column="5" selection-start-line="16" selection-start-column="17" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <marker date="1562055015436" expanded="false" signature="6:78" ph="..." />
+            <marker date="1562055015436" expanded="true" signature="118:887" ph="{...}" />
+            <marker date="1562055015436" expanded="true" signature="259:280" ph="{...}" />
+            <marker date="1562055015436" expanded="true" signature="338:885" ph="{...}" />
+            <marker date="1562055015436" expanded="true" signature="697:879" ph="/* GetComponent&lt;tk2dCamera&gt;().ZoomFactor -= Time.deltaTime * 0.5f; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+          <folding>
+            <marker date="1562141464662" expanded="false" signature="6:78" ph="..." />
+            <marker date="1562141464662" expanded="true" signature="115:2113" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="291:399" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="457:1003" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="508:552" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="603:648" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="661:701" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="747:789" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="849:997" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="1030:1082" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="1107:1161" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="1191:1436" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="1465:1710" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="1766:1925" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="1821:1919" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="1980:2111" ph="{...}" />
+            <marker date="1562141464662" expanded="true" signature="2035:2105" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Bullet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="11" selection-start-line="15" selection-start-column="43" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <marker date="1562055015430" expanded="false" signature="6:44" ph="..." />
+            <marker date="1562055015430" expanded="true" signature="82:948" ph="{...}" />
+            <marker date="1562055015430" expanded="true" signature="168:207" ph="{...}" />
+            <marker date="1562055015430" expanded="true" signature="262:542" ph="{...}" />
+            <marker date="1562055015430" expanded="true" signature="265:536" ph="/* if (!gameObject.GetComponent&lt;tk2dSprite&gt;().FlipX) ... */" />
+            <marker date="1562055015430" expanded="true" signature="586:946" ph="{...}" />
+            <marker date="1562055015430" expanded="true" signature="640:940" ph="{...}" />
+            <marker date="1562055015430" expanded="true" signature="689:930" ph="{...}" />
+            <marker date="1562055015430" expanded="true" signature="768:916" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Enemy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+          <folding>
+            <marker date="1562055015427" expanded="false" signature="6:44" ph="..." />
+            <marker date="1562055015427" expanded="true" signature="81:2920" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="101:160" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="403:448" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="477:728" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="502:722" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="749:961" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="823:955" ph="/* gameObject.GetComponent&lt;tk2dSprite&gt;().FlipX = false; ... */" />
+            <marker date="1562055015427" expanded="true" signature="983:1195" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="1058:1189" ph="/* gameObject.GetComponent&lt;tk2dSprite&gt;().FlipX = true; ... */" />
+            <marker date="1562055015427" expanded="true" signature="1257:2918" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="1278:2771" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="1313:1447" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="1464:2761" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="1507:2580" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="1617:1769" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="1821:2562" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="1973:2501" ph="/* GameObject temp = Instantiate(Bullet, new Vector3(transform.position.x + (gameObject.GetComponent&lt;tk2dSprite&gt;( ... */" />
+            <marker date="1562055015427" expanded="true" signature="2601:2747" ph="{...}" />
+            <marker date="1562055015427" expanded="true" signature="2784:2915" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
